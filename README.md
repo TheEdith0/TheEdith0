@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @TheEdith0
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Data science and Ai/Ml programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi! 👋 I am TheEdith0.
+Currently learning Data Science📊 using .py and DSA using .cpp
+Languages I know :C/C++ and Python🐍.
+
+Contact me at: [E-mail](ashvinsheoran0@gmail.com)
 
 <!---
 TheEdith0/TheEdith0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
