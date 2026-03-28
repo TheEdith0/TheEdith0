@@ -1,29 +1,32 @@
 ## Hi there 👋
 
-**TheEdith0/TheEdith0** is a ✨ _special_ ✨ repository because its `README.md` appears on my GitHub profile.
+<!--
+**TheEdith0/TheEdith0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm currently learning new technologies
-- 👯 I'm looking to collaborate on open source
-- 💬 Ask me about anything tech-related
-- ⚡ Fun fact: I love coding!
+Here are some ideas to get you started:
 
----
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-### 🛠️ Technologies & Tools
+## 🛠️ Skills
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,vscode" />
-</p>
+**Languages:**
+- Python
+- C/C++
+- HTML
 
----
+**Frameworks & Libraries:**
+- NumPy
+- Matplotlib
+- Pandas
+- Seaborn
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheEdith0&show_icons=true&theme=radical" alt="TheEdith0's GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheEdith0&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+**Database:**
+- MySQL
